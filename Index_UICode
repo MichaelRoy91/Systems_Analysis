@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+<link rel="stylesheet" href="systems_style.css">
+ <title>Slippery Rock University Homepage</title>
+</head>
+
+<body background="images/background1.jpg">
+
+
+    <div id="wrapper">
+        <header>
+            <nav id="top nav">
+                <table summary="0" cellspacing="30" border="0" align="center" style="font-size:14px">
+                    <tr>
+                        <td><a href="index.html">Home</a></td>
+                        <td><a href="faculty.html">Link2</a></td>
+                        <td><a href="organizations.html">Link3</a></td>
+                        <td><a href="programs.html">Link4</a></td>
+                        <td><a href="mailto:mar1250@sru.edu">Contact</a></td>
+                    </tr>
+                    <tr>
+                        <td colspan="5" align="center">Designed by &copy; Matt Eichler, Michael Roy, Mack Bean, Sean Schleiffer 2015</td>
+                    </tr>
+                </table>
+            </nav>
+        </header>
+        <div id="main">
+
+            <div id="content1">
+                <p align="center">Information:</p>
+                <p>&nbsp;</p>
+                <div align="center">
+                    <p><a href="http://www.sru.edu/academics/colleges/cbiss/communication/Pages/faculty.aspx">Info1</a></p>
+                    <p><a href="http://www.theonlinerocket.com/">Info2</a></p>
+                    <p><a href="http://www.sru.edu/academics/colleges/cbiss/communication/Pages/studentshowcase.aspx">Info3</a></p>
+                    &nbsp;&nbsp;
+                    <p>Contact Information:&nbsp 123 Nowhere Street &nbsp Someplace, PA 16137</p>
+                </div>
+            </div>
+            <!--end content one-->
+            <div id="content2">
+                <p align="center" style="font-size:18px">&nbsp;</p>
+                <blockquote>
+                    <p align="center" style="font-size:18px"> Welcome to the Slippery Rock University homepage!</p>
+                </blockquote>
+                <p><img src="images/3pic.gif" alt="Communication choices" width="644" height="247" hspace="60" vspace="20" align="middle"></p>
+            </div>
+            <!--end content two-->
+        </div>
+        <!--end main-->
+        <footer>
+
+
+            <nav id="bottom nav">
+                <table summary="0" cellspacing="30" border="0" align="center" style="font-size:14px">
+                    <tr>
+                        <td><a href="index.html">Home</a></td>
+                        <td><a href="faculty.html">Link2</a></td>
+                        <td><a href="organizations.html">Link3</a></td>
+                        <td><a href="programs.html">Link4</a></td>
+                        <td><a href="mailto:mar1250@sru.edu">Contact</a></td>
+                    </tr>
+                    <tr>
+                        <td colspan="5" align="center">Designed by &copy; Matt Eichler, Michael Roy, Mack Bean, Sean Schleiffer 2015</td>
+                    </tr>
+                </table>
+            </nav>
+        </footer>
+    </div>
+    <!--endwrapper-->
+</body>
+
+</html>
